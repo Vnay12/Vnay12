@@ -4,33 +4,24 @@
 
 ## 🌐 Socials:
 
-<div align="center">
-  <span style="margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/vnay1712/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-    </a>
-  </span>
-  <span style="margin-right: 10px;">
-    <a href="https://www.reddit.com/user/Sh1nobi012/">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
-    </a>
-  </span>
-  <span style="margin-right: 10px;">
-    <a href="https://x.com/vnaik012">
-      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-    </a>
-  </span>
-  <span style="margin-right: 10px;">
-    <a href="https://www.youtube.com/@vinaynaik9105">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-    </a>
-  </span>
-  <span>
-    <a href="mailto:vnaynk12@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-    </a>
-  </span>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vnay1712/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Sh1nobi012/">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/vnaik012">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@vinaynaik9105">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:vnaynk12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 # 💻 Tech Stack:
