@@ -1,5 +1,5 @@
 # 🙋‍♂️ HI IM VINAY NAIK:
-🔍 A curious mind with a strong inclination towards problem-solving and logical reasoning.<br>
+A curious mind with a strong inclination towards problem-solving and logical reasoning.<br>
 
 
 ## 🌐 Socials:
