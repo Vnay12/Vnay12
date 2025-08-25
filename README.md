@@ -1,5 +1,5 @@
 # 🙋‍♂️ HI IM VINAY NAIK:
-🔍 A curious mind with a strong inclination towards problem-solving and logical reasoning.<br>🤖 Fascinated by the limitless potential of Artificial Intelligence and Machine Learning in shaping tomorrow.<br>⚙️ Deeply interested in the world of semiconductors, embedded systems, and how hardware meets software.<br>📚 A lifelong learner who enjoys exploring how things work, from algorithms to architecture.<br>🌐 Striving to bridge the gap between innovative tech and real-world impact.<br>✨ Always evolving - one experiment, one bug fix, and one idea at a time.
+🔍 A curious mind with a strong inclination towards problem-solving and logical reasoning.<br>
 
 
 ## 🌐 Socials:
